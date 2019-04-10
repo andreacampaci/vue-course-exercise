@@ -1,0 +1,9 @@
+{
+  "id": "number",
+  "name": "string",
+  "keyName": "string",
+  "description": "string",
+  "menuItems": [
+    "$ref-MenuItem"
+  ]
+}

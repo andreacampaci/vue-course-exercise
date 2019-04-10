@@ -1,0 +1,27 @@
+{
+  "name": "Anna",
+  "surname": "Bianchi",
+  "age": "34",
+  "address": {
+    "street": "via Giacomo Gatti",
+    "number": "12",
+    "city": "Crema",
+    "zipCode": "0000",
+    "country": "Italy"
+  },
+  "married": true,
+  "childs": [
+    {
+      "name": "Filippo",
+      "age": "18"
+    },
+    {
+      "name": "Alberto",
+      "age": "21"
+    },
+    {
+      "name": "Alessandra",
+      "age": "14"
+    }
+  ]
+}
